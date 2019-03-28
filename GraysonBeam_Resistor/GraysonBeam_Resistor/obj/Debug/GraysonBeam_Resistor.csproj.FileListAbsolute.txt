@@ -1,0 +1,5 @@
+C:\Users\Grayson\source\repos\GraysonBeam_Resistor\GraysonBeam_Resistor\obj\Debug\GraysonBeam_Resistor.csprojAssemblyReference.cache
+C:\Users\Grayson\source\repos\GraysonBeam_Resistor\GraysonBeam_Resistor\obj\Debug\GraysonBeam_Resistor.Properties.Resources.resources
+C:\Users\Grayson\source\repos\GraysonBeam_Resistor\GraysonBeam_Resistor\obj\Debug\GraysonBeam_Resistor.Resistor.resources
+C:\Users\Grayson\source\repos\GraysonBeam_Resistor\GraysonBeam_Resistor\obj\Debug\GraysonBeam_Resistor.csproj.GenerateResource.cache
+C:\Users\Grayson\source\repos\GraysonBeam_Resistor\GraysonBeam_Resistor\obj\Debug\GraysonBeam_Resistor.csproj.CoreCompileInputs.cache
